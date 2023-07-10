@@ -2,11 +2,7 @@
 
 接口文档
 
-
-
 ### 此文档由[https://apifox.com/](Apifox)生成
-
-
 
 # jian
 
@@ -330,6 +326,17 @@ returnBook
 |      | integer |      |
 
 **Response Demo:**
+
+```jso
+1
+    success   
+-1 
+    book absent
+-2 
+    user absent
+```
+
+
 
 ## appendBook
 
